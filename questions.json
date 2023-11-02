@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "London",
+            "New York",
+            "Paris",
+            "Dublin"
+        ],
+        "correct": "Paris"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Vincent Van Gogh",
+            "Pablo Picasso",
+            "Leonardo Da Vinci",
+            "Claude Monet"
+        ],
+        "correct": "Leonardo Da Vinci"
+    }
+]
